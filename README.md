@@ -187,7 +187,7 @@ H₀: Mean years of experience is equal across all job titles
 
 **Job title matters more than geography.** Job Title produced the largest sum of squares in the ANOVA while Country failed to reach significance, and the age-versus-salary plot shows five essentially identical country trend lines.
 
-**Education gates seniority.** PhD holders reach senior status at 28.9 percent versus 1.8 percent for high school graduates, and the chi-square statistic of 522.43 makes this one of the strongest associations in the dataset.
+**Education gaps seniority.** PhD holders reach senior status at 28.9 percent versus 1.8 percent for high school graduates, and the chi-square statistic of 522.43 makes this one of the strongest associations in the dataset.
 
 **A gender pay gap is present and only partly explained by measured factors.** The raw gap is $13,507. Controlling for experience, education, age, country, and race narrows it to about $6,928, meaning roughly half persists after adjustment.
 
