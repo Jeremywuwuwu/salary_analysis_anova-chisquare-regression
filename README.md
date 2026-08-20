@@ -224,8 +224,8 @@ Each script is self-contained and loads the dataset independently.
 
 | Script | Contents |
 |---|---|
-| `Module1_Assignment.R` | Correlation analysis, multi-factor ANOVA, multiple linear regression, and grouped regression plots |
-| `Module_2_Assignment.R` | Chi-square tests of independence and one-way ANOVA on gender and job title |
+| `Part1.R` | Correlation analysis, multi-factor ANOVA, multiple linear regression, and grouped regression plots |
+| `Part2.R` | Chi-square tests of independence and one-way ANOVA on gender and job title |
 
 ## Reference
 Salary Dataset. Kaggle.
