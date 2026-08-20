@@ -7,8 +7,6 @@ A two-part inferential statistics project on 6,684 salary records, examining whi
 
 **Part 2** shifts from prediction to equity, using chi-square tests of independence to ask whether education and race are associated with reaching senior status, and ANOVA to quantify the gender pay gap.
 
-Completed for ALY 6015 at Northeastern University.
-
 ## Dataset
 6,684 employee records across 9 variables, spanning 129 unique job titles and 5 countries, with no missing values.
 
